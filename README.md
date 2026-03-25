@@ -1,4 +1,5 @@
 # 📁 Gerador de Pastas Acadêmicas
+![demo](https://github.com/user-attachments/assets/89507149-de35-4c4e-a701-8907eef9d59e)
 
 Um aplicativo desktop leve e prático para automatizar a criação de estruturas de diretórios e arquivos de estudo.
 
